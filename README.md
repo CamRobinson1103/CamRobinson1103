@@ -1,8 +1,8 @@
 Cameron Robinson
 
-Graduate of Academy of Interactive Entertainment
-2+ Years of coding experience
-He/Him
+- Graduate of Academy of Interactive Entertainment
+- 2+ Years of coding experience
+- He/Him
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
