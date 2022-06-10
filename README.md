@@ -5,3 +5,7 @@ Cameron Robinson
 - He/Him
 
 [Resume](https://www.example.com)
+
+[Itch Page](https://www.example.com)
+
+[Github](https://www.example.com)
