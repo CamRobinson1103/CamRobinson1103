@@ -23,3 +23,5 @@ This is the final project I did as a student at AIE. In it you play as a red pan
 This is a project I worked on at the end of my first year at AIE. In it you play as a bartender serving drink to customers. In this project I worked on the enemies and their behavior
 
 ![alt text](https://user-images.githubusercontent.com/69812742/173673893-70646c0a-b74b-4633-b0f8-e6ff8b629e23.png)
+
+[Itch Page for Taverner](https://lthan.itch.io/taverner)
