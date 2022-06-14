@@ -12,7 +12,7 @@
 [Linkedin Page](https://www.linkedin.com/in/cameron-robinson-9557051ba/)
 
 ## Sandman
--This is the final project I did as a student at AIE. In it you play as a red panda collecting dreams to escape a dream. In this project I was in charge of the collectibles and win conditions
+This is the final project I did as a student at AIE. In it you play as a red panda collecting dreams to escape a dream. In this project I was in charge of the collectibles and win conditions
 
 ![alt text](https://user-images.githubusercontent.com/69812742/173671354-92470dcd-fcef-4f1f-a03c-1c28f032d8a8.png)
 
