@@ -8,5 +8,3 @@ Cameron Robinson
 [Resume](https://www.example.com)
 
 [Itch Page](https://www.example.com)
-
-[Github](https://www.example.com)
