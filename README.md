@@ -1,4 +1,4 @@
-Cameron Robinson
+Hello! My name is Cameron Robinson
 
 - Graduate of Academy of Interactive Entertainment
 - 2+ Years of C++ and C# experience
