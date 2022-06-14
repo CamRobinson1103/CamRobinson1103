@@ -10,4 +10,4 @@ Cameron Robinson
 
 [Itch Page](https://www.example.com)
 
-[Linkedin Page]((https://www.linkedin.com/in/cameron-robinson-9557051ba/))
+[Linkedin Page](https://www.linkedin.com/in/cameron-robinson-9557051ba/)
