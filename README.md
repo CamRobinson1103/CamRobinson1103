@@ -6,7 +6,7 @@ Cameron Robinson
 - He/Him
 - Email: robinsoncameron1103@gmail.com
 
-[Resume](https://www.example.com](https://resume.creddle.io/)
+[Resume](https://resume.creddle.io/)
 
 [Itch Page](https://www.example.com)
 
