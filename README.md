@@ -3,7 +3,6 @@ Hello! My name is Cameron Robinson
 - Graduate of Academy of Interactive Entertainment
 - 2+ Years of C++ and C# experience
 - 2+ Years of Unity and Unreal Engine 4 experience
-- He/Him
 - Email: robinsoncameron1103@gmail.com
 
 [Resume](https://resume.creddle.io/resume/9kw7wcu4ea5)
