@@ -8,6 +8,6 @@ Cameron Robinson
 
 [Resume](https://resume.creddle.io/)
 
-[Itch Page](https://www.example.com](https://cams-jams.itch.io/)
+[Itch Page](https://cams-jams.itch.io/)
 
 [Linkedin Page](https://www.linkedin.com/in/cameron-robinson-9557051ba/)
