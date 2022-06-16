@@ -27,7 +27,3 @@ This is a project I worked on at the end of my first year at AIE. In it you play
 [Itch Page for Taverner](https://lthan.itch.io/taverner)
 
 [Repo page](https://github.com/CamRobinson1103/Taverner)
-
-# test
-## test
-### test
