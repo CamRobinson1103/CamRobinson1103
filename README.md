@@ -9,7 +9,7 @@
 
 - Itch Page: [Itch.io](https://cams-jams.itch.io/)
 
-- Linkedin Page: [Linkedin](https://www.linkedin.com/in/cameron-robinson-9557051ba/)
+- LinkedIn Page: [LinkedIn](https://www.linkedin.com/in/cameron-robinson-9557051ba/)
 
 ## Sandman
 This is the final project I did as a student at AIE. In it you play as a red panda collecting dreams to escape a dream. In this project I was in charge of the collectibles and win conditions.
