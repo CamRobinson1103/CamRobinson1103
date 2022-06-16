@@ -5,11 +5,11 @@
 - 2+ Years of Unity and Unreal Engine 4 experience
 - Email: robinsoncameron1103@gmail.com
 
--Resume: [Resume](https://resume.creddle.io/resume/9kw7wcu4ea5)
+- Resume: [Resume](https://resume.creddle.io/resume/9kw7wcu4ea5)
 
--Itch Page: [Itch.io](https://cams-jams.itch.io/)
+- Itch Page: [Itch.io](https://cams-jams.itch.io/)
 
--Linkedin Page: [Linkedin](https://www.linkedin.com/in/cameron-robinson-9557051ba/)
+- Linkedin Page: [Linkedin](https://www.linkedin.com/in/cameron-robinson-9557051ba/)
 
 ## Sandman
 This is the final project I did as a student at AIE. In it you play as a red panda collecting dreams to escape a dream. In this project I was in charge of the collectibles and win conditions
